@@ -19,6 +19,11 @@
 		AC99490B26001AFA009A6A4F /* NewGoalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC99490A26001AFA009A6A4F /* NewGoalView.swift */; };
 		AC99490F26001B23009A6A4F /* GoalCollectionDataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC99490E26001B23009A6A4F /* GoalCollectionDataStore.swift */; };
 		AC99491726001BF2009A6A4F /* Goal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC99491626001BF2009A6A4F /* Goal.swift */; };
+		AC99491D26005C57009A6A4F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AC99491C26005C56009A6A4F /* README.md */; };
+		AC99492526005E67009A6A4F /* GoalDetailView.png in Resources */ = {isa = PBXBuildFile; fileRef = AC99492126005E67009A6A4F /* GoalDetailView.png */; };
+		AC99492626005E67009A6A4F /* GoalSettingsView.png in Resources */ = {isa = PBXBuildFile; fileRef = AC99492226005E67009A6A4F /* GoalSettingsView.png */; };
+		AC99492726005E67009A6A4F /* GoalCollectionView.png in Resources */ = {isa = PBXBuildFile; fileRef = AC99492326005E67009A6A4F /* GoalCollectionView.png */; };
+		AC99492826005E67009A6A4F /* NewGoalView.png in Resources */ = {isa = PBXBuildFile; fileRef = AC99492426005E67009A6A4F /* NewGoalView.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +41,11 @@
 		AC99490A26001AFA009A6A4F /* NewGoalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewGoalView.swift; sourceTree = "<group>"; };
 		AC99490E26001B23009A6A4F /* GoalCollectionDataStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoalCollectionDataStore.swift; sourceTree = "<group>"; };
 		AC99491626001BF2009A6A4F /* Goal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Goal.swift; sourceTree = "<group>"; };
+		AC99491C26005C56009A6A4F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		AC99492126005E67009A6A4F /* GoalDetailView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GoalDetailView.png; sourceTree = "<group>"; };
+		AC99492226005E67009A6A4F /* GoalSettingsView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GoalSettingsView.png; sourceTree = "<group>"; };
+		AC99492326005E67009A6A4F /* GoalCollectionView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GoalCollectionView.png; sourceTree = "<group>"; };
+		AC99492426005E67009A6A4F /* NewGoalView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NewGoalView.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +69,8 @@
 		AC9948D0260019FB009A6A4F = {
 			isa = PBXGroup;
 			children = (
+				AC99492026005D1B009A6A4F /* Screenshots */,
+				AC99491C26005C56009A6A4F /* README.md */,
 				AC9948D5260019FB009A6A4F /* Shared */,
 				AC9948DF26001A00009A6A4F /* iOS */,
 				AC9948E626001A00009A6A4F /* macOS */,
@@ -130,6 +142,17 @@
 				AC99490A26001AFA009A6A4F /* NewGoalView.swift */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		AC99492026005D1B009A6A4F /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				AC99492326005E67009A6A4F /* GoalCollectionView.png */,
+				AC99492126005E67009A6A4F /* GoalDetailView.png */,
+				AC99492226005E67009A6A4F /* GoalSettingsView.png */,
+				AC99492426005E67009A6A4F /* NewGoalView.png */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -210,6 +233,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC99492526005E67009A6A4F /* GoalDetailView.png in Resources */,
+				AC99491D26005C57009A6A4F /* README.md in Resources */,
+				AC99492826005E67009A6A4F /* NewGoalView.png in Resources */,
+				AC99492726005E67009A6A4F /* GoalCollectionView.png in Resources */,
+				AC99492626005E67009A6A4F /* GoalSettingsView.png in Resources */,
 				AC9948ED26001A00009A6A4F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
