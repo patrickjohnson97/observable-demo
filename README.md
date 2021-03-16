@@ -5,10 +5,10 @@ The purpose of this project is to illustrate how to manage state with the use of
 I hope you enjoy and learn something valuable from it.
 
 ## Screenshots
-![Goal Collection View](Screenshots/GoalCollectionView.png)
-![Goal Detail View](Screenshots/GoalDetailView.png)
-![Goal Settings View](Screenshots/GoalSettingsView.png)
-![New Goal View](Screenshots/NewGoalView.png)
+![Goal Collection View](Screenshots/GoalCollectionView.png){:height="50%" width="50%"}
+![Goal Detail View](Screenshots/GoalDetailView.png){:height="50%" width="50%"}
+![Goal Settings View](Screenshots/GoalSettingsView.png){:height="50%" width="50%"}
+![New Goal View](Screenshots/NewGoalView.png){:height="50%" width="50%"}
 
 
 ## Questions/Concerns
