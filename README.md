@@ -5,10 +5,9 @@ The purpose of this project is to illustrate how to manage state with the use of
 I hope you enjoy and learn something valuable from it.
 
 ## Screenshots
-![Goal Collection View](Screenshots/GoalCollectionView.png)
-![Goal Detail View](Screenshots/GoalDetailView.png)
-![Goal Settings View](Screenshots/GoalSettingsView.png)
-![New Goal View](Screenshots/NewGoalView.png)
+<img src="Screenshots/GoalCollectionView.png" width="50%">
+<img src="Screenshots/GoalDetailView.png" width="50%">
+<img src="Screenshots/GoalSettingsView.png" width="50%">
 <img src="Screenshots/NewGoalView.png" width="50%">
 
 ## Questions/Concerns
