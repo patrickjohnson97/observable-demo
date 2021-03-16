@@ -22,8 +22,8 @@
 		AC99491D26005C57009A6A4F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AC99491C26005C56009A6A4F /* README.md */; };
 		AC99492526005E67009A6A4F /* GoalDetailView.png in Resources */ = {isa = PBXBuildFile; fileRef = AC99492126005E67009A6A4F /* GoalDetailView.png */; };
 		AC99492626005E67009A6A4F /* GoalSettingsView.png in Resources */ = {isa = PBXBuildFile; fileRef = AC99492226005E67009A6A4F /* GoalSettingsView.png */; };
-		AC99492726005E67009A6A4F /* GoalCollectionView.png in Resources */ = {isa = PBXBuildFile; fileRef = AC99492326005E67009A6A4F /* GoalCollectionView.png */; };
 		AC99492826005E67009A6A4F /* NewGoalView.png in Resources */ = {isa = PBXBuildFile; fileRef = AC99492426005E67009A6A4F /* NewGoalView.png */; };
+		AC99492C2600621A009A6A4F /* GoalCollectionView.png in Resources */ = {isa = PBXBuildFile; fileRef = AC99492B2600621A009A6A4F /* GoalCollectionView.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,8 +44,8 @@
 		AC99491C26005C56009A6A4F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		AC99492126005E67009A6A4F /* GoalDetailView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GoalDetailView.png; sourceTree = "<group>"; };
 		AC99492226005E67009A6A4F /* GoalSettingsView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GoalSettingsView.png; sourceTree = "<group>"; };
-		AC99492326005E67009A6A4F /* GoalCollectionView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GoalCollectionView.png; sourceTree = "<group>"; };
 		AC99492426005E67009A6A4F /* NewGoalView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NewGoalView.png; sourceTree = "<group>"; };
+		AC99492B2600621A009A6A4F /* GoalCollectionView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = GoalCollectionView.png; path = ../../../Documents/GoalCollectionView.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,7 +147,7 @@
 		AC99492026005D1B009A6A4F /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
-				AC99492326005E67009A6A4F /* GoalCollectionView.png */,
+				AC99492B2600621A009A6A4F /* GoalCollectionView.png */,
 				AC99492126005E67009A6A4F /* GoalDetailView.png */,
 				AC99492226005E67009A6A4F /* GoalSettingsView.png */,
 				AC99492426005E67009A6A4F /* NewGoalView.png */,
@@ -236,8 +236,8 @@
 				AC99492526005E67009A6A4F /* GoalDetailView.png in Resources */,
 				AC99491D26005C57009A6A4F /* README.md in Resources */,
 				AC99492826005E67009A6A4F /* NewGoalView.png in Resources */,
-				AC99492726005E67009A6A4F /* GoalCollectionView.png in Resources */,
 				AC99492626005E67009A6A4F /* GoalSettingsView.png in Resources */,
+				AC99492C2600621A009A6A4F /* GoalCollectionView.png in Resources */,
 				AC9948ED26001A00009A6A4F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
